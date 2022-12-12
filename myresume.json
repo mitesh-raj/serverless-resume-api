@@ -1,45 +1,34 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Programmer",
+    "name": "Mitesh Raj",
+    "label": "Devops Engineer",
     "image": "",
-    "email": "john@gmail.com",
-    "phone": "(912) 555-4321",
-    "url": "https://johndoe.com",
+    "email": "miteshraj1408@gmail.com",
+    "phone": "+91 7004817790",
+    "url": "",
     "summary": "A summary of John Doe…",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Kolkata",
+      "postalCode": "700135",
+      "city": "Kolkata",
+      "countryCode": "India",
+      "region": "West Bengal"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "john",
-      "url": "https://twitter.com/john"
+      "network": "Linkdin",
+      "username": "Mitesh",
+      "url": "https://www.linkedin.com/in/mitesh-raj-b07204245/"
     }]
   },
   "work": [{
-    "name": "Company",
-    "position": "President",
+    "name": "TCS",
+    "position": "System Enigneer",
     "url": "https://company.com",
-    "startDate": "2013-01-01",
-    "endDate": "2014-01-01",
+    "startDate": "2017-02-09",
+    "endDate": "2019-06-16",
     "summary": "Description…",
     "highlights": [
       "Started the company"
-    ]
-  }],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
     ]
   }],
   "education": [{
